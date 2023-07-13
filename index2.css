@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(244, 242, 242);
+}
+.navbar{
+    background-color: white;
+}
+.btnFind:hover{
+    background-color: rgb(108, 108, 108);
+    color: white;
+}
+#profilePicture{
+    height: 50px;
+}
+#logoPic{
+    margin-left: 20px;
+    height: 70px;
+}
